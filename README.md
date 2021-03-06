@@ -1,1 +1,1 @@
-Site criado em HTML e CSS para estudo
+Site criado em HTML e CSS para estudo.
